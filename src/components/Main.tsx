@@ -1,3 +1,4 @@
+import React from 'react'
 import { Stack, StackProps } from '@chakra-ui/react'
 
 export const Main = (props: StackProps) => (

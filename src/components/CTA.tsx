@@ -1,3 +1,4 @@
+import React from 'react'
 import { Link as ChakraLink, Button } from '@chakra-ui/react'
 
 import { Container } from './Container'
